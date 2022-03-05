@@ -1,2 +1,0 @@
-# MyReactApp1
-MyFirstReactApp
